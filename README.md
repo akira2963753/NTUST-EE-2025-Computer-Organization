@@ -22,9 +22,9 @@ NTUST-EE 2025 Computer Organization
 |  [PA2](./PA2)  |  SimpleCPU (MemSize=12) | 14098.532 | 4.4039  | 1% | 100 |
 |  [PA3](./PA3)  |  FinalCPU (MemSize=32) | 18500.034 | 4.2721(1.7721+2.5)  | 4% | 96 |
 
-#
+## PA2  
 #### Single cycle processor R-format, I-format, Branch and Jump instructions  
-<img width="703" alt="{06AAC330-FFD2-421E-BA67-0FAF65D96546}" src="https://github.com/user-attachments/assets/ff82dbc1-93f1-4ed3-925c-6c8e10a6df76" />  
-
+<img width="703" alt="{06AAC330-FFD2-421E-BA67-0FAF65D96546}" src="https://github.com/user-attachments/assets/ff82dbc1-93f1-4ed3-925c-6c8e10a6df76" />   
+## PA3  
 #### 5-stage pipelined processor with R-format, I-format and forwarding and hazard detection  
 ![image](https://github.com/user-attachments/assets/7304aa38-02b7-4092-8d19-6725a044dd50)
