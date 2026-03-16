@@ -20,7 +20,7 @@ NTUST-EE 2025 Computer Organization
 |  [PA1](./PA1)  |  CompDivider | 1223.068 | 4.4499  | 1% | 100 |
 |  [PA2](./PA2)  |  SimpleCPU (MemSize=128) | 33743.972 | 4.4097  | 1% | 100 |
 |  [PA2](./PA2)  |  SimpleCPU (MemSize=12) | 14098.532 | 4.4039  | 1% | 100 |
-|  [PA3](./PA3)  |  FinalCPU (MemSize=32) | 18500.034 | 4.2721(1.7721+2.5)  | 4% | 96 | 
+|  [PA3](./PA3)  |  FinalCPU (MemSize=32) | 18500.034 | 4.2721(1.7721+2.5)  | 1% | 100 | 
 
 #### Final CPU : 5-Stage Pipelined Processor with Forwarding and Hazard Detection  
 <img width="1556" height="911" alt="image" src="https://github.com/user-attachments/assets/c308337b-69e2-47e2-bc62-741e63f334a0" />  
